@@ -1,0 +1,9 @@
+UPI fraud is one of the most common cybercrimes in India, especially among students and online users. It usually happens when fraudsters trick people into sharing sensitive information or approving fake payment requests.
+
+In a typical case, a student receives a call or message from someone pretending to be a bank official or a seller from an online platform. The fraudster sends a fake payment link or QR code and asks the victim to scan it to receive money. However, instead of receiving money, the victim unknowingly approves a payment and loses money from their account.
+
+Another common method is sending a “collect request” on UPI apps like Google Pay or PhonePe, where the victim is asked to enter their UPI PIN. Many people do not realize that entering the PIN means they are sending money, not receiving it.
+
+Students and young users are often targeted because they frequently use digital payments and may not be fully aware of such scams. The consequences include financial loss, stress, and sometimes leakage of personal data.
+
+This case study shows the importance of being alert while using online payment systems and understanding how digital transactions actually work.
